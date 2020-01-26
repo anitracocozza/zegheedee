@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oyooceixah.lukasztyrala.pl/sitemap.xml
